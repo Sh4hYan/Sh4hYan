@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShahYann (Shayan)  
+- 👀 I love working on websites, apps, bots, and managing things  
+- 🌱 I learn new stuff every day  
+- 😄 You can call me: shah-yawn  
+- ⚡ Fun fact: Nothing is really free!
