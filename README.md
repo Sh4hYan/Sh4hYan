@@ -50,7 +50,7 @@
 ### 😄 Self Introduction
 
 - You can call me: `shah-yawn`  (Shayan)
-- ⚡ Fun fact: Nothing in the WORLD is really free!  
+- ⚡ Nothing in the WORLD is really free!  
 - 🎧 I love coding with music  
 - 💬 I speak both code and words fluently! (Hahha)
 
