@@ -30,11 +30,7 @@
 
 ---
 
-### 📊 My GitHub Stats
-![Activity Map](https://github-readme-activity-graph.vercel.app/graph?username=shahyann&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)
----
-
-### ⚒️ Languages & Tools
+### ⚒️ Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
