@@ -10,7 +10,6 @@
 ---
 
 ### 😎 About Me
-
 - 👨‍💻 I'm passionate about building:
   - Websites 💻
   - Bots 🤖 (Specially with **Godfather** 😁 Telethon)
@@ -24,14 +23,7 @@
   - Machine Learning 🧪  
   - Translation and Editing (Persian ↔ English) ✍️📘
   - And Cheeeessss 😎 ♖♘♗♕♔♗♘♖
-
-- 📚 I'm a **Translation guy** who loves mixing tech and language  
-- 🔤 I also do **academic and literary translation** as well as **editing and proofreading**
-
 ---
-
-### ⚒️ Languages
-
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -40,7 +32,6 @@
   <img src="https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
 ---
 
 ### 😄 Self Introduction
