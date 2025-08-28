@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
----
 
 ### 😄 Self Introduction
 
