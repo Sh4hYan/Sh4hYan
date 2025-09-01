@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi there! I'm @ShahYann (Shayan)</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&vCenter=true&width=435&lines=Frontend+And+Backend+Developer;Bot+Builder+%7C+Telethon+Python;Machine+Learning+And+Ai+Lover;Translator+%26+Editor+And+Typist;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&vCenter=true&width=435&lines=Telegram+Bot+Builder++Telethon+;Machine+Learning+And+Ai+Lover;Translator+%26+Editor+And+Typist;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,6 @@
 - 🧠 Things I work with every day:
   - Python & AI 🤖  
   - HTML / CSS / JavaScript 💡  
-  - Git & GitHub ⛓️  
   - Machine Learning 🧪  
   - Translation and Editing (Persian ↔ English) ✍️📘
   - And Cheeeessss 😎 ♖♘♗♕♔♗♘♖
