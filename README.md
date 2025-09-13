@@ -9,14 +9,14 @@
 
 ---
 
-### 😎 About Me
-- 👨‍💻 I'm passionate about building:
+### About Me
+-  I'm passionate about building:
   - Websites 💻
   - Bots 🤖 (Specially with **Godfather** 😁 Telethon)
   - Mobile Apps 📱
   - Machine Learning 🤯
 
-- 🧠 Things I work with every day:
+-  Things I work with every day:
   - Python & AI 🤖  
   - HTML / CSS / JavaScript 💡  
   - Machine Learning 🧪  
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 😄 Self Introduction
+###  Self Introduction
 
 - You can call me: `shah-yawn`  (Shayan)
 - ⚡ Nothing in the WORLD is really free!  
