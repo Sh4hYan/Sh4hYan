@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="75" alt="Python GIF" />
 </p>
-<h2 align="center">👋 Hi there! I'm @Sh4hYan (Shayan)</h2>
+<h2 align="center">👋 Hi there! I'm @Sh4hYan (Shayan | ShahYan)</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&vCenter=true&width=435&lines=Telegram+Bot+Builder++Telethon+;Machine+Learning+And+Ai+Lover;Translator+%26+Editor+And+Typist;Always+Learning+New+Things" alt="Typing SVG" />
