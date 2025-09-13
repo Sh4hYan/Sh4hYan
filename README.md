@@ -7,16 +7,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&vCenter=true&width=435&lines=Telegram+Bot+Builder++Telethon+;Machine+Learning+And+Ai+Lover;Translator+%26+Editor+And+Typist;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
----
-
 ### About Me
--  I'm passionate about building:
+  **I'm passionate about building:**
+  - Bots 🤖 (with **Godfather** Telethon)
   - Websites 💻
-  - Bots 🤖 (Specially with **Godfather** 😁 Telethon)
   - Mobile Apps 📱
-  - Machine Learning 🤯
 
--  Things I work with every day:
+
+  ### Things I work with every day:
   - Python & AI 🤖  
   - HTML / CSS / JavaScript 💡  
   - Machine Learning 🧪  
@@ -35,10 +33,8 @@
 ###  Self Introduction
 
 - You can call me: `shah-yawn`  (Shayan)
-- ⚡ Nothing in the WORLD is really free!  
-- 🎧 I love coding with music  
 - 💬 I speak both code and words fluently! (Hahha)
-
+- ⚡ Nothing in the WORLD is really free!  
 ---
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci
